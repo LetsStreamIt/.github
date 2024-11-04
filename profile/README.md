@@ -13,12 +13,7 @@ Follow the instruction given at [Bootstrap](https://github.com/LetsStreamIt/boot
 
 ## Demo
 
-Watch *Let's Stream It* demo:
-
-<video width="560" height="315" controls>
-    <source src="demo.mp4" type="video/mp4" />
-</video>
-
+Download and watch *Let's Stream It* ![Demo]("./demo.mp4").
 
 ## Documentation
 
