@@ -13,7 +13,7 @@ Follow the instruction given at [Bootstrap](https://github.com/LetsStreamIt/boot
 
 ## Demo
 
-Download and watch *Let's Stream It* ![Demo]("./demo.mp4").
+Download and watch *Let's Stream It* ![Demo](./demo.mp4).
 
 ## Documentation
 
