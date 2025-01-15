@@ -19,7 +19,7 @@ Download and watch *Let's Stream It* ![Demo](./demo.mp4).
 
 The report of the project, related to the Software Process Engineering Course is available [here](https://letsstreamit.github.io/documentation/).
 
-The one of "Applicazioni e Servizi Web", can be downloaded [here](./letsstreamit_report.pdf).
+The one of Applicazioni e Servizi Web, can be downloaded [here](./letsstreamit_report.pdf), while the presentation here [here](./aws_presentation.pdf).
 
 ## Authors
 
